@@ -8,3 +8,6 @@ In this notebook, I implement a Machine Learning Pipeline to extract, pre-proces
 1. Linear Regression
 2. Random Forests
 3. Decision Trees
+
+
+By using cross validation, we discover that the Random Forests algorithm performs best for this dataset
